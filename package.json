@@ -10,6 +10,10 @@
   ],
   "dependencies": {
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dreamsocket/wintersmith-json.git"
+  },
   "devDependencies": {
     "coffee-script": ">1.5",
     "vows": "0.7.x",
