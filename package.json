@@ -1,0 +1,18 @@
+{
+  "name": "wintersmith-json",
+  "version": "1.0.0",
+  "description": "A wintersmith plugin.",
+  "author": "Anonymous",
+  "license": "MIT",
+  "keywords": [
+    "wintersmith",
+    "wintersmith-json"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": ">1.5",
+    "vows": "0.7.x",
+    "wintersmith": "2.x"
+  }
+}
